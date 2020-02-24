@@ -1,5 +1,5 @@
 # Nanotopology
-The project checks the similarity of two graphs using nano sets.
+Novel way for finding isomorphism using nanotopology in efficient manner with retrieval of all possible isomorphic structure.
 
 ## nano_topology.py file is used to find nanosets
 
