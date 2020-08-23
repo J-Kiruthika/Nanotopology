@@ -15,7 +15,7 @@ Novel way for finding isomorphism using nanotopology in efficient manner with re
 3. Parameters of function **boundary_region** are the values returned from lower-approximation and upper_approximation.   
 4. **nanoset** is obtained by passing the values returned from lower_approximation, upper_approximation and boundary_region.
 
-## graph_euivalence.py file is used to check whether two graphs are isomorphic or not.
+## graph_equivalence.py file is used to check whether two graphs are isomorphic or not.
 Dictionary that contains nodes(key) and adjacent nodes(values) of each graphs are directly passed to the equality function. 
 
 Final result will be isomorphic vertices of second graph to the first graph if two graphs are similar else false statement(graphs are not similar) will be returned.
